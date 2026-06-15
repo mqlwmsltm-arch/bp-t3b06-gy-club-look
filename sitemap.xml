@@ -2,21 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://mqlwmsltm-arch.github.io/bp-t3b06-gy-club-look/</loc>
-    <lastmod>2026-06-11</lastmod>
+    <lastmod>2026-06-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://mqlwmsltm-arch.github.io/bp-t3b06-gy-club-look/about.html</loc>
-    <lastmod>2026-06-11</lastmod>
+    <lastmod>2026-06-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://mqlwmsltm-arch.github.io/bp-t3b06-gy-club-look/blog.html</loc>
-    <lastmod>2026-06-11</lastmod>
+    <lastmod>2026-06-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://mqlwmsltm-arch.github.io/bp-t3b06-gy-club-look/posts/compare-002-1gnd7f0.html</loc>
+    <lastmod>2026-06-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>https://mqlwmsltm-arch.github.io/bp-t3b06-gy-club-look/posts/field_note-001-1y544lp.html</loc>
@@ -55,8 +61,14 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://mqlwmsltm-arch.github.io/bp-t3b06-gy-club-look/posts/qa-001-1gnd7f0.html</loc>
+    <lastmod>2026-06-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://mqlwmsltm-arch.github.io/bp-t3b06-gy-club-look/feed.xml</loc>
-    <lastmod>2026-06-11</lastmod>
+    <lastmod>2026-06-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
